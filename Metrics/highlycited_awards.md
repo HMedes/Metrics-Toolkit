@@ -1,6 +1,6 @@
 | Field | Field Value |
 |------------------------------|-------------------------------------------------|
-| Name | "Highly Cited Papers" and "% Highly Cited Papers" awards
+| Name | "Highly Cited Papers" and "% of Highly Cited Papers" awards
 | Can Apply To | Journal articles
 | Metric Definition | "Highly Cited Papers" is an indicator that reveals how many times an article has been cited, compared to other articles in a discipline, journal, or country, or published in the same time period. As Clarivate Analytics [describes the designation](http://ipscience-help.thomsonreuters.com/inCites2Live/indicatorsGroup/aboutHandbook/usingCitationIndicatorsWisely/highlyCitedPapers.html), "Highly Cited Papers are considered to be indicators of scientific excellence and top performance and can be used to benchmark research performance against field baselines worldwide." Highly Cited Papers are expressed as the volume of articles that have received the top one percent of citations in each of the 22 Essential Science Indicators (ESI) subject areas per year. 
 | Metric Calculation | The basic methods for calculating percentiles in various providers, upon which "Highly Cited" designations are based, can be found on the [Citation Percentiles, Articles](http://www.metrics-toolkit.org/citations-percentiles-articles/) Metrics Toolkit page. 
