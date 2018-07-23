@@ -21,7 +21,7 @@ post_date: 2017-10-23 19:20:49
 </tr>
 <tr>
 <td><em>Can apply to</em></td>
-<td>Indication of to what the metric is applied (e.g. an individual researcher, a paper, journal, etc).</td>
+<td>What "level" or research output type the metric is applied to (e.g. an individual researcher, a paper, journal, etc). Corresponds to the "Research object" tag, which includes: Authors, Book chapters, Books, Country, Datasets, Discipline, Institution, Journal articles, Journal, and Software/code/scripts.</td>
 </tr>
 <tr>
 <td><em>Metric definition</em></td>
@@ -72,6 +72,20 @@ post_date: 2017-10-23 19:20:49
 <td scope="">Time scope or coverage used in calculating the metric</td>
 </tr>
 </tbody>
-</table>[/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section fb_built="1" inner_shadow="on" _builder_version="3.0.64" use_background_color_gradient="on" background_color_gradient_start="#ffffff" background_color_gradient_end="#f9f9f9" custom_css_before="content:%22%22;||display: block;||height: 100%;||position: absolute;||top: 0;||left: 0;||width: 100%;||background-color: rgba(255, 255, 255, 1.00);" global_module="1796" saved_tabs="all"][et_pb_row custom_padding="0px||0px|" background_position_1="top_left" background_position_2="top_left" background_position_3="top_left" background_position_4="top_left" background_repeat_1="no-repeat" background_repeat_2="no-repeat" background_repeat_3="no-repeat" background_repeat_4="no-repeat" _builder_version="3.0.64" background_size="initial" background_position="top_left" background_repeat="repeat"][et_pb_column type="1_4" _builder_version="3.0.47" parallax="off" parallax_method="on" background_position="top_left" background_repeat="no-repeat"][et_pb_text background_layout="dark" text_orientation="right" _builder_version="3.0.64" text_font="Montserrat|on|||" text_font_size="18" inline_fonts="Roboto"]
+</table>
+
+<p>We also use tags and categories to help organize metrics by related "impact type" and discipline. These tags are usually assigned based upon information provided in the Appropriate Use Cases and Inappropriate Use Cases sections.</p>
+
+<p>Possible <strong>Types of Impact</strong> include:</p>
+
+<ul>
+  <li>Attention, Reach, or Diffusion: How widely read or "seen" research is. Similar to the concept of "exposure". May not necessarily signify <i>readers</i>, perse; instead may indicate general levels of awareness around research, or <i>possible</i> readers. An example would be an "upper bound" of Twitter users, which is the number of Twitter users for whom a research link has appeared in their timeline.</li>
+  <li>Cultural Impact: The extent to which research has had an influence upon the lives of the general public, in particular (but not exclusively) in the realms of art and culture.</li>  
+  <li>Disciplinary Influence: The extent to which research has had a demonstratable influence within its own field.</li>
+  <li>Interdisciplinary Influence: The extent to which research has had a demonstratable influence within other fields.</li>
+</ul>
+    
+
+[/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section fb_built="1" inner_shadow="on" _builder_version="3.0.64" use_background_color_gradient="on" background_color_gradient_start="#ffffff" background_color_gradient_end="#f9f9f9" custom_css_before="content:%22%22;||display: block;||height: 100%;||position: absolute;||top: 0;||left: 0;||width: 100%;||background-color: rgba(255, 255, 255, 1.00);" global_module="1796" saved_tabs="all"][et_pb_row custom_padding="0px||0px|" background_position_1="top_left" background_position_2="top_left" background_position_3="top_left" background_position_4="top_left" background_repeat_1="no-repeat" background_repeat_2="no-repeat" background_repeat_3="no-repeat" background_repeat_4="no-repeat" _builder_version="3.0.64" background_size="initial" background_position="top_left" background_repeat="repeat"][et_pb_column type="1_4" _builder_version="3.0.47" parallax="off" parallax_method="on" background_position="top_left" background_repeat="no-repeat"][et_pb_text background_layout="dark" text_orientation="right" _builder_version="3.0.64" text_font="Montserrat|on|||" text_font_size="18" inline_fonts="Roboto"]
 <p><strong><span style="color: #000000; font-family: Roboto;">We Are </span></strong><br /><strong><span style="color: #000000; font-family: Roboto;">Supported By:</span></strong></p>
 [/et_pb_text][/et_pb_column][et_pb_column type="3_4" _builder_version="3.0.47" parallax="off" parallax_method="on" background_position="top_left" background_repeat="no-repeat"][et_pb_code max_width="700px" _builder_version="3.0.64"][logo-carousel id=default][/et_pb_code][/et_pb_column][/et_pb_row][/et_pb_section]
