@@ -11,4 +11,4 @@
 | Available Metric Sources | Journal editors, Journal websites, [Cabell’s Directories of Publishing Opportunities](http://www.cabells.com/), and the [Modern Language Association Directory of Periodicals](https://www.mla.org/Publications/MLA-International-Bibliography/About-the-MLA-International-Bibliography/MLA-Directory-of-Periodicals)
 | Transparency | The data underlying acceptance rates are proprietary. Although some journals make their acceptance rate publicly available, many do not.
 | Website | n/a
-| Timeframe | Varies
+| Timeframe | Journal acceptance rates are generally reported by calendar year, when they are publicly available.
