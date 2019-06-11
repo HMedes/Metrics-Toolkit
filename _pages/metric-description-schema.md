@@ -32,7 +32,7 @@ post_date: 2017-10-23 19:20:49
 </tr>
 <tr>
 <td><em>Metric calculation</em></td>
-<td>Mathematical/quantitative definition of the metric (when available)</td>
+<td>Mathematical/quantitative definition of the metric, when available</td>
 </tr>
 <tr>
 <td><em>Data sources</em></td>
