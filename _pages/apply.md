@@ -1,6 +1,6 @@
 ---
 ID: 2321
-post_title: ""
+post_title: Apply to Join the Editorial Board
 author: Stacy Konkiel
 post_excerpt: ""
 layout: page
