@@ -28,5 +28,5 @@ post_date: 2019-11-19 19:40:05
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>Applications will be accepted through December 15, 2019.</p>
+<p>Applications will be accepted through December 16, 2019.</p>
 <!-- /wp:paragraph -->
