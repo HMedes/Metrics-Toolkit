@@ -1,6 +1,6 @@
 ---
 ID: 1545
-post_title: Choose Metrics
+post_title: Choose Metrics Live
 author: paul
 post_excerpt: ""
 layout: page
@@ -9,4 +9,3 @@ permalink: >
 published: true
 post_date: 2018-01-19 23:11:05
 ---
-<!-- wp:divi/placeholder /-->
