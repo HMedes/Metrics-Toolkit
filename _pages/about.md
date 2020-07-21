@@ -25,7 +25,6 @@ post_date: 2016-07-07 18:11:06
 </ul>
 <p>&nbsp;</p>
 <h2><strong>Connect</strong></h2>
-<p>&nbsp;</p>
 <p><strong><a href="mailto:metricstoolkit@gmail.com">Email</a></strong></p>
 <p><a href="https://github.com/Metrics-Toolkit/Metrics-Toolkit"><strong>Github</strong></a></p>
 <p><strong> <a href="https://twitter.com/Metrics_Toolkit">Twitter</a></strong></p>[/et_pb_text][et_pb_divider _builder_version="3.23.3"][/et_pb_divider][/et_pb_column][/et_pb_row][et_pb_row custom_padding="0px||37px|" background_position_1="top_left" background_position_2="top_left" background_position_3="top_left" background_position_4="top_left" background_repeat_1="no-repeat" background_repeat_2="no-repeat" background_repeat_3="no-repeat" background_repeat_4="no-repeat" _builder_version="3.22.3" background_size="initial" background_position="top_left" background_repeat="repeat" saved_tabs="all"][et_pb_column type="2_5" _builder_version="3.0.47"][et_pb_text _builder_version="3.23.3"]<p>We are supported by</p>[/et_pb_text][/et_pb_column][et_pb_column type="3_5" _builder_version="3.0.47"][et_pb_code admin_label="Code"][logo-carousel id=default][/et_pb_code][/et_pb_column][/et_pb_row][/et_pb_section]
