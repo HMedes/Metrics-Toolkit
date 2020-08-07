@@ -1,7 +1,7 @@
 | Field                         | Field Value |
 |------------------------------|-------------------------------------------------|
 | Name                          | Citations, Data
-| Can Apply To                  |  Research data sets
+| Can Apply To                  |  Research data sets and journal articles that describe them.
 | Metric Definition             | The number of times a journal article or book has referenced a data set.
 | Metric Calculation            | Data citations are sometimes collected only in the formal sense (i.e., with the data set being listed in the References section of a paper, alongside journal articles). They can also be calculated in the informal sense (i.e., linked to from within the Methods section of a paper). It varies from tool to tool.
 | Data Sources                  | Web of Science via Data Citation Index, Google Scholar (rare)
