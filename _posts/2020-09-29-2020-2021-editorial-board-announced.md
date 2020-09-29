@@ -5,7 +5,7 @@ author: Heather Coates
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.metrics-toolkit.org/news/2590/
+  https://www.metrics-toolkit.org/news/2020-2021-editorial-board-announced/
 published: true
 post_date: 2020-09-29 20:06:21
 ---
